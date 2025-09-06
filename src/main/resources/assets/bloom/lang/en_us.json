@@ -1,0 +1,13 @@
+{
+  "itemGroup.bloom": "Example Mod Tab",
+  "block.bloom.example_block": "Example Block",
+  "item.bloom.example_item": "Example Item",
+
+  "bloom.configuration.title": "Bloom Configs",
+  "bloom.configuration.section.bloom.common.toml": "Bloom Configs",
+  "bloom.configuration.section.bloom.common.toml.title": "Bloom Configs",
+  "bloom.configuration.items": "Item List",
+  "bloom.configuration.logDirtBlock": "Log Dirt Block",
+  "bloom.configuration.magicNumberIntroduction": "Magic Number Text",
+  "bloom.configuration.magicNumber": "Magic Number"
+}
